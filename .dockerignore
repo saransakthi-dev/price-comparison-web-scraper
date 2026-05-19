@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.git/
+.gitignore
+*.log
+*.txt
+err*.log
+build_err.txt
+tailwind_err.txt
+eslint.config.js
+vite.config.js
+package-lock.json
+public/
+README.md
